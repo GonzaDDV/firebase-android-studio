@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067488239034",
+    "project_id": "tp-android-studio",
+    "storage_bucket": "tp-android-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067488239034:android:1c8d6f2bcbee93ed121183",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067488239034-hlktvuehdqoh6omp1a0650ni273aoomn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6czOfDbBV7AW7AZYT1XKwySw6g8rSOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067488239034-hlktvuehdqoh6omp1a0650ni273aoomn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

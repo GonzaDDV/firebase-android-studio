@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplicación de Firebase</string>
+
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="timer">Cronómetro</string>
+    <string name="sign_out">Cerrar sesión</string>
+
+</resources>

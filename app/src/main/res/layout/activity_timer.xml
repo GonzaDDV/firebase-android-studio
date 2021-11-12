@@ -45,7 +45,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="#FFFFFF"
-                android:text="Empezar/pausar" />
+                android:text="@string/start_pause" />
 
             <Space
                 android:layout_width="16dp"
@@ -57,7 +57,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Resetear" />
+                android:text="@string/reset" />
 
         </LinearLayout>
 

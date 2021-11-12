@@ -7,4 +7,6 @@
     <string name="password">Contraseña</string>
     <string name="timer">Cronómetro</string>
     <string name="sign_out">Cerrar sesión</string>
+    <string name="start_pause">Empezar/pausar</string>
+    <string name="reset">Resetear</string>
 </resources>
